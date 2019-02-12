@@ -1,0 +1,10 @@
+C:\Users\538003\source\repos\Clicker2\Clicker2\bin\Debug\Clicker2.exe.config
+C:\Users\538003\source\repos\Clicker2\Clicker2\bin\Debug\Clicker2.exe
+C:\Users\538003\source\repos\Clicker2\Clicker2\bin\Debug\Clicker2.pdb
+C:\Users\538003\source\repos\Clicker2\Clicker2\obj\Debug\Clicker2.csprojAssemblyReference.cache
+C:\Users\538003\source\repos\Clicker2\Clicker2\obj\Debug\Clicker2.Properties.Resources.resources
+C:\Users\538003\source\repos\Clicker2\Clicker2\obj\Debug\Clicker2.csproj.GenerateResource.cache
+C:\Users\538003\source\repos\Clicker2\Clicker2\obj\Debug\Clicker2.csproj.CoreCompileInputs.cache
+C:\Users\538003\source\repos\Clicker2\Clicker2\obj\Debug\Clicker2.exe
+C:\Users\538003\source\repos\Clicker2\Clicker2\obj\Debug\Clicker2.pdb
+C:\Users\538003\source\repos\Clicker2\Clicker2\obj\Debug\Clicker2.frmClicker.resources
